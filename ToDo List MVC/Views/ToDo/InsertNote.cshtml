@@ -1,0 +1,52 @@
+﻿@using ToDo_List_MVC.Models.Entity
+@model NoteDetail
+
+<div class="container bg-light p-5">
+    <form method="post">
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Note</label>
+            <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" asp-for="Note">
+        </div>
+        <div class="mb-3 d-flex">
+            <div class="w-50 me-1">
+                <label for="scheduleDate" class="form-label">Schedule Date</label>
+                <input type="date" class="form-control" id="scheduleDate" asp-for="ScheduleDate">
+            </div>
+            <div class="w-50">
+                <label for="scheduleTime" class="form-label">Schedule Time</label>
+                <input type="time" class="form-control" id="scheduleTime" asp-for="ScheduleTime">
+            </div>
+        </div>
+        <div class="mb-3 d-flex">
+            <div class="me-3 form-check">
+                <input type="checkbox" class="form-check-input day-checkbox" id="monday" asp-for="IsMonday">
+                <label class="form-check-label" for="monday">Monday</label>
+            </div>
+            <div class="me-3 form-check">
+                <input type="checkbox" class="form-check-input day-checkbox" id="tuesday" asp-for="IsTuesday">
+                <label class="form-check-label" for="tuesday">Tuesday</label>
+            </div>
+            <div class="me-3 form-check">
+                <input type="checkbox" class="form-check-input day-checkbox" id="wednesday" asp-for="IsWednesday">
+                <label class="form-check-label" for="wednesday">Wednesday</label>
+            </div>
+            <div class="me-3 form-check">
+                <input type="checkbox" class="form-check-input day-checkbox" id="thusday" asp-for="IsThursday">
+                <label class="form-check-label" for="thusday">Thusday</label>
+            </div>
+            <div class="me-3 form-check">
+                <input type="checkbox" class="form-check-input day-checkbox" id="friday" asp-for="IsFriday">
+                <label class="form-check-label" for="friday">friday</label>
+            </div>
+            <div class="me-3 form-check">
+                <input type="checkbox" class="form-check-input day-checkbox" id="saturday" asp-for="IsSaturday">
+                <label class="form-check-label" for="saturday">Saturday</label>
+            </div>
+            <div class="me-3 form-check">
+                <input type="checkbox" class="form-check-input day-checkbox" id="sunday" asp-for="IsSunday">
+                <label class="form-check-label" for="sunday">Sunday</label>
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
+    </form>
+</div>

@@ -1,0 +1,42 @@
+﻿@using ToDo_List_MVC.Models.Entity
+@model List<NoteDetail>
+
+<div class="container p-5 bg-light">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Note</th>
+                <th scope="col">ScheduleDate</th>
+                <th scope="col">ScheduleTime</th>
+                <th scope="col" align="center">Days</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @if (Model is not null)
+                @foreach (var noteDetail in @Model)
+                {
+                    <tr>
+                        <td>@noteDetail.Note</td>
+                        <td>@noteDetail.ScheduleDate</td>
+                        <td>@noteDetail.ScheduleTime</td>
+                        <td>
+                            <input type="checkbox" class="form-check-input day-checkbox" id="monday" checked="@noteDetail.IsMonday">
+                            <input type="checkbox" class="form-check-input day-checkbox" id="tuesday" checked="@noteDetail.IsTuesday">
+                            <input type="checkbox" class="form-check-input day-checkbox" id="wednsday" checked="@noteDetail.IsWednesday">
+                            <input type="checkbox" class="form-check-input day-checkbox" id="thusday" checked="@noteDetail.IsThursday">
+                            <input type="checkbox" class="form-check-input day-checkbox" id="friday" checked="@noteDetail.IsFriday">
+                            <input type="checkbox" class="form-check-input day-checkbox" id="saturday" checked="@noteDetail.IsSaturday">
+                            <input type="checkbox" class="form-check-input day-checkbox" id="sunday" checked="@noteDetail.IsSunday">
+                        </td>
+                        <td>
+                            <a class="btn btn-light me-1" asp-controller="ToDo" asp-action="UpdateNote" asp-route-id="@noteDetail.Id">Edit</a>
+                            <a class="btn btn-light" asp-controller="ToDo" asp-action="DeleteNote" asp-route-id="@noteDetail.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+
+        </tbody>
+    </table>
+</div>

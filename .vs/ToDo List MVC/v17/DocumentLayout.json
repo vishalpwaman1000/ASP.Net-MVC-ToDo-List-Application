@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|c:\\users\\vishal waman\\source\\repos\\todo list mvc\\todo list mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|solutionrelative:todo list mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|c:\\users\\vishal waman\\source\\repos\\todo list mvc\\todo list mvc\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|solutionrelative:todo list mvc\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|c:\\users\\vishal waman\\source\\repos\\todo list mvc\\todo list mvc\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|solutionrelative:todo list mvc\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|c:\\users\\vishal waman\\source\\repos\\todo list mvc\\todo list mvc\\views\\todo\\updatenote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|solutionrelative:todo list mvc\\views\\todo\\updatenote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|c:\\users\\vishal waman\\source\\repos\\todo list mvc\\todo list mvc\\views\\todo\\insertnote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|solutionrelative:todo list mvc\\views\\todo\\insertnote.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|c:\\users\\vishal waman\\source\\repos\\todo list mvc\\todo list mvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AE8C80-74E4-41B0-AF90-92867EA81FB3}|ToDo List MVC\\ToDo List MVC.csproj|solutionrelative:todo list mvc\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ToDo List MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ToDo List MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T08:56:23.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateNote.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Views\\ToDo\\UpdateNote.cshtml",
+              "RelativeDocumentMoniker": "ToDo List MVC\\Views\\ToDo\\UpdateNote.cshtml",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Views\\ToDo\\UpdateNote.cshtml",
+              "RelativeToolTip": "ToDo List MVC\\Views\\ToDo\\UpdateNote.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T08:25:34.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InsertNote.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Views\\ToDo\\InsertNote.cshtml",
+              "RelativeDocumentMoniker": "ToDo List MVC\\Views\\ToDo\\InsertNote.cshtml",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Views\\ToDo\\InsertNote.cshtml",
+              "RelativeToolTip": "ToDo List MVC\\Views\\ToDo\\InsertNote.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T06:32:46.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ToDo List MVC\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ToDo List MVC\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:20:31.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Views\\ToDo\\Index.cshtml",
+              "RelativeDocumentMoniker": "ToDo List MVC\\Views\\ToDo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Views\\ToDo\\Index.cshtml",
+              "RelativeToolTip": "ToDo List MVC\\Views\\ToDo\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T12:19:38.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDo List MVC\\Controllers\\ToDoController.cs",
+              "ToolTip": "C:\\Users\\Vishal Waman\\source\\repos\\ToDo List MVC\\ToDo List MVC\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDo List MVC\\Controllers\\ToDoController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T12:19:20.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
